@@ -1,0 +1,15 @@
+#navbar {
+    text-align: center;
+}
+
+.link {
+    margin: 10px;
+    color: green;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.search-btn {
+    background-color: black;
+    color: white;
+}
